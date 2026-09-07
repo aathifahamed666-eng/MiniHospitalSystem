@@ -28,4 +28,4 @@ public class Patient {
         logger.info(() -> "Medical Condition: " + medicalCondition);
     }
 }
-      variables type
+      variable type method
