@@ -41,4 +41,4 @@ The system was tested to verify the main operations of each data structure.
 
 ## Author
 
-Aathif ahamed
+Aathif ahamed MA
