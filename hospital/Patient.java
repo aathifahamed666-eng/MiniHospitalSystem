@@ -28,3 +28,4 @@ public class Patient {
         logger.info(() -> "Medical Condition: " + medicalCondition);
     }
 }
+      variables
