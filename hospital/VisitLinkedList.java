@@ -165,4 +165,4 @@ public class VisitLinkedList {
         logger.info(() -> "Treatment: " + visit.treatment);
     }
 }
-    diagnosis logger
+      diagnosis log visit
